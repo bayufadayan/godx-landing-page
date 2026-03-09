@@ -1,6 +1,6 @@
 # GODX Dicoding Project
 
-Live demo: https://bayufadayan.github.io/godx-dicoding-project/
+Live demo: https://bayufadayan.github.io/godx-landing-page/
 
 Deskripsi singkat
 - Project ini adalah sebuah tampilan web sederhana untuk kursus Dicoding — berisi halaman beranda, help center, privacy policy, dan terms.
