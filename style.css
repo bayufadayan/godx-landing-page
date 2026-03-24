@@ -1585,7 +1585,7 @@ footer {
     opacity: 0.8;
 }
 
-.footer-top h1 {
+.footer-top h2 {
     color: #FFF;
     font-family: "Libre Baskerville";
     font-size: 4rem;
@@ -1613,7 +1613,7 @@ footer {
 }
 
 .footer-right p,
-.footer-right h1 {
+.footer-right h2 {
     text-align: right;
 }
 
@@ -1622,7 +1622,7 @@ footer {
     align-items: flex-end;
 }
 
-.content-top-section h1 {
+.content-top-section h2 {
     width: 70%;
 }
 
@@ -2560,7 +2560,7 @@ footer {
         height: fit-content;
     }
 
-    .footer-top h1 {
+    .footer-top h2 {
         font-size: 2.5rem;
         width: 90%;
         text-align: center;
@@ -2604,7 +2604,7 @@ footer {
         font-size: 10px !important;
     }
 
-    .footer-right h1 {
+    .footer-right h2 {
         font-size: 18px;
         text-align: center;
     }
