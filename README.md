@@ -1,4 +1,4 @@
-# GODX Dicoding Project
+# GODX Dicoding Project 
 
 Live demo: https://bayufadayan.github.io/godx-landing-page/
 
